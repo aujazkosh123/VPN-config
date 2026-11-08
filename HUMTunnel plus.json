@@ -1,1 +1,32 @@
-
+{
+ "FileName": "",
+ "Version": "",
+ "ReleaseNotes": "",
+ "contactSupport": "",
+ "config_url": "",
+ "account_api": "",
+ "cloud_get_api": "",
+ "cloud_post_api": "",
+ "AppConfPass": "HpZo\/pH4Uz+ZLT4Y8JVox2TVRQ1rSqrwPObJXw==",
+ "Servers": [],
+ "HTTPNetworks": [],
+ "SSLNetworks": [],
+ "JSONsettings": [
+  {
+   "mLocalPort": "1080",
+   "mAutoClearLog": true,
+   "mIsDisabledDelaySSH": true,
+   "mCompression": true,
+   "mVpnDnsForward": true,
+   "mVpnDnsResolver": "8.8.8.8:8.8.4.4",
+   "mVpnUdpForward": true,
+   "mVpnUdpResolver": "127.0.0.1:7300",
+   "mSSHPinger": 3,
+   "mPingServer": "clients3.google.com:443",
+   "mProxyAddress": "127.0.0.1:8989",
+   "mReconnTime": 5,
+   "mIsTetheringSubnet": false
+  }
+ ],
+ "Ovpn_Cert": ""
+}
